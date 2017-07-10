@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TheMovieDB</string>
+    <string name="title">MovieTitle</string>
+    <string name="release_date">DDMMYYYY</string>
+    <string name="rating">0.0/10.0</string>
+    <string name="synopsis">Synopsis :</string>
+    <string name="sortnypopularity">Sort by Popularity</string>
+    <string name="sortbytoprated">Sort by Top Rated</string>
+</resources>
