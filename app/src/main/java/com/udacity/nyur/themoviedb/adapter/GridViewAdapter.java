@@ -59,10 +59,10 @@ public class GridViewAdapter extends ArrayAdapter<Movie> {
         Movie item = mMovieData.get(position);
         holder.titleTextView.setText(Html.fromHtml(item.getTitle()));
 
-        Picasso.with(mContext) //
-                .load(item.getPoster_path()) //
-                .fit() //
-                .tag(mContext) //
+        Picasso.with(mContext)
+                .load(item.getPoster_path())
+                .fit()
+                .tag(mContext)
                 .into(holder.imageView);
 
         return row;

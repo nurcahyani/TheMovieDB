@@ -3,7 +3,6 @@ package com.udacity.nyur.themoviedb.utilities;
 import android.app.Activity;
 import android.content.Context;
 import android.content.res.AssetManager;
-import android.support.compat.BuildConfig;
 
 import java.io.IOException;
 import java.io.InputStream;
