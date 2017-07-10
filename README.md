@@ -1,5 +1,5 @@
 # TheMovieDB
-###It's for learning, the code is simple! 
+### It's for learning, the code is simple! 
 #### Your app will:
  1.   Present the user with a grid arrangement of movie posters upon launch.
  2.   Allow your user to change sort order via a setting:
